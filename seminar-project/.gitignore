@@ -1,0 +1,5 @@
+/dumps
+.env
+/.idea
+venv
+*.xml

@@ -1,0 +1,21 @@
+1	Pilsēta	pilsēta	ncfsn_	ncfsn4	Skaitlis=Vienskaitlis|Šķirkļa_ID=248517|Vārds=Pilsēta|Šķirkļa_cilvēklasāmais_ID=pilsēta:1|Leksēmas_nr=257634|Atstarpes_pirms=|Pamatforma=pilsēta|Galotnes_nr=75|Nobīde_rindkopā=0|Vārdšķira=Lietvārds|Mija=0|Minēšana=Nav|Lielo_burtu_lietojums=Sākas_ar_lielo_burtu|Locījums=Nominatīvs|Dzimte=Sieviešu|Vārdgrupas_nr=7|Deklinācija=4	
+2	Etiopijā	Etiopija	npfsl_	npfsl4	Īpašvārda_veids=Vietvārds|Skaitlis=Vienskaitlis|Vārds=Etiopijā|Leksēmas_nr=1102441|Lietvārda_tips=Īpašvārds|Atstarpes_pirms=_|Pamatforma=Etiopija|Galotnes_nr=79|Avots=wiki|Nobīde_rindkopā=8|Vārdšķira=Lietvārds|Mija=0|Minēšana=Nav|Lielo_burtu_lietojums=Sākas_ar_lielo_burtu|Locījums=Lokatīvs|Dzimte=Sieviešu|Vārdgrupas_nr=7|Deklinācija=4	
+3	(	(	zb	zb	Galotnes_nr=2092|Vārds=(|Nobīde_rindkopā=17|Vārdšķira=Pieturzīme|Pieturzīmes_tips=Iekava|Mija=0|Minēšana=Nav|Vārdgrupas_nr=37|Leksēmas_nr=1101344|Atstarpes_pirms=_|Pamatforma=(	
+4	"	"	zq	zq	Galotnes_nr=2092|Vārds="|Nobīde_rindkopā=18|Vārdšķira=Pieturzīme|Pieturzīmes_tips=Pēdiņa|Mija=0|Minēšana=Nav|Vārdgrupas_nr=37|Leksēmas_nr=1101340|Atstarpes_pirms=_|Pamatforma="	
+5	Āba'	Āba'	i	i	Vārdšķira=Izsauksmes_vārds|Avots=CMM_tagger_guess|Pamatforma=Āba'	
+6	ala	ala	ncfsn_	ncfsn4	Skaitlis=Vienskaitlis|Šķirkļa_ID=9778|Vārds=ala|Šķirkļa_cilvēklasāmais_ID=ala:1|Leksēmas_nr=10040|Atstarpes_pirms=|Pamatforma=ala|Galotnes_nr=75|Nobīde_rindkopā=23|Vārdšķira=Lietvārds|Mija=0|Minēšana=Nav|Locījums=Nominatīvs|Dzimte=Sieviešu|Vārdgrupas_nr=7|Deklinācija=4	
+7	"	"	zq	zq	Galotnes_nr=2092|Vārds="|Nobīde_rindkopā=26|Vārdšķira=Pieturzīme|Pieturzīmes_tips=Pēdiņa|Mija=0|Minēšana=Nav|Vārdgrupas_nr=37|Leksēmas_nr=1101340|Atstarpes_pirms=|Pamatforma="	
+8	)	)	zb	zb	Galotnes_nr=2092|Vārds=)|Nobīde_rindkopā=27|Vārdšķira=Pieturzīme|Pieturzīmes_tips=Iekava|Mija=0|Minēšana=Nav|Vārdgrupas_nr=37|Leksēmas_nr=1101345|Atstarpes_pirms=|Pamatforma=)	
+9	,	,	zc	zc	Galotnes_nr=2092|Vārds=,|Nobīde_rindkopā=28|Vārdšķira=Pieturzīme|Pieturzīmes_tips=Komats|Mija=0|Minēšana=Nav|Vārdgrupas_nr=37|Leksēmas_nr=1101338|Atstarpes_pirms=|Pamatforma=,	
+10	Afaras	Afara	npfsg_	ncfsg4	Skaitlis=Vienskaitlis|Vārds=Afaras|Atstarpes_pirms=_|Pamatforma=Afara|Galotnes_nr=76|Avots=minējums_pēc_galotnes|Nobīde_rindkopā=30|Vārdšķira=Lietvārds|Mija=0|Minēšana=Minēšana_pēc_galotnes|Lielo_burtu_lietojums=Sākas_ar_lielo_burtu|Locījums=Ģenitīvs|Dzimte=Sieviešu|Vārdgrupas_nr=7|Deklinācija=4	
+11	kililā	kilila	ncfsl_	ncfsl4	Skaitlis=Vienskaitlis|Vārds=kililā|Atstarpes_pirms=_|Pamatforma=kilila|Galotnes_nr=79|Avots=minējums_pēc_galotnes|Nobīde_rindkopā=37|Vārdšķira=Lietvārds|Mija=0|Minēšana=Minēšana_pēc_galotnes|Locījums=Lokatīvs|Dzimte=Sieviešu|Vārdgrupas_nr=7|Deklinācija=4	
+12	,	,	zc	zc	Galotnes_nr=2092|Vārds=,|Nobīde_rindkopā=43|Vārdšķira=Pieturzīme|Pieturzīmes_tips=Komats|Mija=0|Minēšana=Nav|Vārdgrupas_nr=37|Leksēmas_nr=1101338|Atstarpes_pirms=|Pamatforma=,	
+13	4800	4800	xn	xn	Reziduāļa_tips=Skaitlis_cipariem|Vārds=4800|Nobīde_rindkopā=45|Vārdšķira=Reziduālis|Atstarpes_pirms=_|Pamatforma=4800	
+14	iedzīvotāju	iedzīvotājs	ncmpg_	ncmpg1	Skaitlis=Daudzskaitlis|Šķirkļa_ID=113036|Vārds=iedzīvotāju|Šķirkļa_cilvēklasāmais_ID=iedzīvotājs:1|Leksēmas_nr=116324|Atstarpes_pirms=_|Pamatforma=iedzīvotājs|Galotnes_nr=9|Nobīde_rindkopā=50|Vārdšķira=Lietvārds|Mija=0|Minēšana=Nav|Locījums=Ģenitīvs|Dzimte=Vīriešu|Vārdgrupas_nr=1|Deklinācija=1	
+15	(	(	zb	zb	Galotnes_nr=2092|Vārds=(|Nobīde_rindkopā=62|Vārdšķira=Pieturzīme|Pieturzīmes_tips=Iekava|Mija=0|Minēšana=Nav|Vārdgrupas_nr=37|Leksēmas_nr=1101344|Atstarpes_pirms=_|Pamatforma=(	
+16	2005.	2005.	xo	xo	Reziduāļa_tips=Kārtas_skaitlis_cipariem|Vārds=2005.|Nobīde_rindkopā=63|Vārdšķira=Reziduālis|Atstarpes_pirms=_|Pamatforma=2005.	
+17	g.	g.	yn	y	Galotnes_nr=2091|Vārds=g.|Nobīde_rindkopā=69|Vārdšķira=Saīsinājums|Mija=0|Minēšana=Nav|Vārdgrupas_nr=36|Leksēmas_nr=1101265|Atstarpes_pirms=_|Pamatforma=g.	
+18	)	)	zb	zb	Galotnes_nr=2092|Vārds=)|Nobīde_rindkopā=71|Vārdšķira=Pieturzīme|Pieturzīmes_tips=Iekava|Mija=0|Minēšana=Nav|Vārdgrupas_nr=37|Leksēmas_nr=1101345|Atstarpes_pirms=|Pamatforma=)	
+19	.	.	zs	zs	Galotnes_nr=2092|Vārds=.|Nobīde_rindkopā=72|Vārdšķira=Pieturzīme|Pieturzīmes_tips=Punkts|Mija=0|Minēšana=Nav|Vārdgrupas_nr=37|Leksēmas_nr=1101325|Atstarpes_pirms=|Pamatforma=.	
+
+
